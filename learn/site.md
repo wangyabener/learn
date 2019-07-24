@@ -12,3 +12,6 @@ https://www.hi-linux.com/
 
 Go 标准目录结构
 https://github.com/golang-standards/project-layout
+
+共识算法
+https://www.jianshu.com/p/8e4bbe7e276c
