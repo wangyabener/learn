@@ -9,3 +9,6 @@ https://freeleox.github.io/2018/11/02/Google%20Cloud%20SSR/
 
 运维之美
 https://www.hi-linux.com/
+
+Go 标准目录结构
+https://github.com/golang-standards/project-layout
